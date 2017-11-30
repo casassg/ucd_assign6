@@ -1,3 +1,5 @@
+# HackX Registration 
+
 ## The prototype
 
 In order to simulate a web enviroment as well as possible I decided to go with [Figma](figma.com) for the prototype. To simulate interactions I linked buttons to generated screens to give the user a feeling that he can interact with the system. 
