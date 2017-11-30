@@ -39,6 +39,8 @@ Story: Albert is applying to HackX and Noemi asks him to create a team. Meanwhil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fjKoq70Le8g?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+Shot in the night. The goal was to give context to the application and help understand how can it help attendees meet other people. Special thanks to Noemi, Albert and Jordi, for letting me bother them to make this video.
+
 ## This page
 
 This page has been made with GitHub Pages in markdown.
