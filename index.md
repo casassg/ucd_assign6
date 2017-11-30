@@ -27,3 +27,12 @@ This are the changes that I introduced to the prototype after finishing the firt
 | Public/Private team difficult to see | Changed option to a switch on the upper right corner to switch between private and public mode      |    
 | Submit application button text is confusing | Changing button text from "Submit application" to "Apply" |
 
+## Story board
+
+![storyboard](assets/img/storyboard.png)
+
+Story: Albert is applying to HackX and Noemi asks him to create a team. Meanwhile Jordi applies alone, and sees Albert and Noemi's team. He decides to join their team. At HackX, they meet and start hacking together.
+
+## This page
+
+This page has been made with GitHub Pages in markdown.
