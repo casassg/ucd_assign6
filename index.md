@@ -6,18 +6,20 @@ In order to simulate a web enviroment as well as possible I decided to go with [
 
 ### How to build it
 
-To build the prototype and recreate it you need to download the images. To simulate interaction you can see the connections here:
+To build the prototype and recreate it you need to download the images. You can download them [here](https://github.com/casassg/ucd_assign6/tree/master/assets/img/screens). To simulate interaction you can see the connections here:
 
 ![figma connections](assets/img/prototype%20connections.png)
 
-The best way to reproduce this would be to print this images and use a **Wizard of Oz** tecnique to simulate the interactions. 
+[Download this image](assets/img/prototype%20connections.png)
+
+The best way to reproduce the prototype would be to print the screens images and use a **Wizard of Oz** technique following the diagram above to simulate interaction with the user.
 
 
 ## Prototype changes
 
-This are the changes that I introduced 
+This are the changes that I introduced to the prototype after finishing the firts usability test on the first prototype.
 
-| Feedback from first prototype       | New prototype           |
+| Feedback from first prototype       | Updated           |
 | ------------- |:-------------:| -----:|
 | Application status is not obvious      | right-aligned | 
 | Difficult to understand team list order    | centered      |   
