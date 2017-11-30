@@ -19,11 +19,11 @@ The best way to reproduce the prototype would be to print the screens images and
 
 This are the changes that I introduced to the prototype after finishing the firts usability test on the first prototype.
 
-| Feedback from first prototype       | Updated           |
+| Feedback from first prototype       | Changes in new prototype           |
 | ------------- |:-------------:| -----:|
-| Application status is not obvious      | right-aligned | 
-| Difficult to understand team list order    | centered      |   
-| Team comment and contact together can be confusing | are neat      |    
-| Public/Private team difficult to see | are neat      |    
-| Submit application button text is confusing |  |
+| Application status is not obvious | Add status on screen after applying + Moved application update to another screen | 
+| Difficult to understand team list order | Added title to team list that says that list is ordered by recentness  |   
+| Team comment and contact together can be confusing | Removed comments publicly and only allow for comments on private. Added button to contact team if looking from public screen     |    
+| Public/Private team difficult to see | Changed option to a switch on the upper right corner to switch between private and public mode      |    
+| Submit application button text is confusing | Changing button text from "Submit application" to "Apply" |
 
