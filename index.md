@@ -33,6 +33,10 @@ This are the changes that I introduced to the prototype after finishing the firt
 
 Story: Albert is applying to HackX and Noemi asks him to create a team. Meanwhile Jordi applies alone, and sees Albert and Noemi's team. He decides to join their team. At HackX, they meet and start hacking together.
 
+## Video demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fjKoq70Le8g?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 ## This page
 
 This page has been made with GitHub Pages in markdown.
